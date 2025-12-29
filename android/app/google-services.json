@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "128601947041",
+    "project_id": "slyceup-poc",
+    "storage_bucket": "slyceup-poc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128601947041:android:b242c1dc0b06d79e06e9e0",
+        "android_client_info": {
+          "package_name": "com.slyceup.slyceup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "128601947041-cov488ioid3qen3bgafi17robp655f97.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.slyceup.slyceup",
+            "certificate_hash": "af5cafc206b51fa7f0e841e8fd94c609fa5ab1a9"
+          }
+        },
+        {
+          "client_id": "128601947041-1ovqkh935ophrqha8pmppc6js8gnm500.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6mDSNxQKMawXYR0PkAOMv5KSYU58gTxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "128601947041-1ovqkh935ophrqha8pmppc6js8gnm500.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "128601947041-pf2i9mni45laljic93jk12tlh8mmrqo7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.slyceup.slyceup"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
